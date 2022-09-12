@@ -125,8 +125,8 @@ input{
 h2{
     padding-top: 10px;
     padding-left: 20px;
-    font-size: 12px;
-    width: 250px;
+    font-size: 15px;
+    width: 350px;
 }
 
 h1{
@@ -134,7 +134,7 @@ h1{
     font-family: sans-serif;
 }
 p{
-font-size: 12px;
+font-size: 15px;
 padding-left: 15px;
 }
 
